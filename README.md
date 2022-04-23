@@ -1,6 +1,6 @@
 # Flor do norte
 
-## Mobile para uma empresa de produtos naturais
+## layout de um site uma empresa de produtos naturais
 
 Como obter o projeto
 
